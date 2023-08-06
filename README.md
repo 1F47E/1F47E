@@ -2,9 +2,15 @@
 
 ### [SHAI HULUD](https://github.com/1F47E/go-shaihulud)
 
-> Secure, command-line interface (CLI) chat application that leverages the Tor network for enhanced privacy.
+> Secure, CLI chat over the Tor network.
 
 <img src="https://github.com/1F47E/go-shaihulud/raw/dev/assets/banner.jpg">
+
+### [btc-xray](https://github.com/1F47E/go-btc-xray/raw/master/assets/banner.jpg)
+
+> Bitcoin network scanner
+
+<img src="https://github.com/1F47E/go-btc-xray/raw/master/assets/banner.jpg">
 
 ### [Pentimento](https://github.com/1F47E/go-pentimento)
 
