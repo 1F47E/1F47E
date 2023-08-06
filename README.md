@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there! Below is a list of my recent pet projects. Feel free to open issues or contribute. Thanks!
 
-<!--
-**1F47E/1F47E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [SHAI HULUD](https://github.com/1F47E/go-shaihulud)
 
-Here are some ideas to get you started:
+> Secure, command-line interface (CLI) chat application that leverages the Tor network for enhanced privacy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/1F47E/go-shaihulud/raw/dev/assets/banner.jpg">
+
+### [Pentimento](https://github.com/1F47E/go-pentimento)
+
+> Steganography tool to hide encrypted data inside images and stay undetected
+
+<img src="https://raw.githubusercontent.com/1F47E/go-pentimento/master/assets/banner.jpg">
+
