@@ -9,7 +9,7 @@
 
 
 
-### [SHAI HULUD](https://github.com/1F47E/go-shaihulud)
+### [Shai Hulud](https://github.com/1F47E/go-shaihulud)
 
 <a href="https://github.com/1F47E/go-shaihulud">
 <img src="https://github.com/1F47E/go-shaihulud/raw/dev/assets/banner.jpg" width="600px"></a>
@@ -28,7 +28,7 @@
 
 
 
-### [btc-xray](https://github.com/1F47E/go-btc-xray/)
+### [BTC Xray](https://github.com/1F47E/go-btc-xray/)
 
 <a href="https://github.com/1F47E/go-btc-xray">
 <img src="https://github.com/1F47E/go-btc-xray/raw/master/assets/banner.jpg" width="600px"></a>
@@ -37,7 +37,7 @@
 
 
 
-### [bitreel](https://github.com/1F47E/go-bitreel/)
+### [Bitreel](https://github.com/1F47E/go-bitreel/)
 
 
 <a href="https://github.com/1F47E/go-bitreel">
