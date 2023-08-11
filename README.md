@@ -37,11 +37,11 @@
 
 
 
-### [bytereel](https://github.com/1F47E/go-bytereel/)
+### [bitreel](https://github.com/1F47E/go-bitreel/)
 
 
-<a href="https://github.com/1F47E/go-bytereel">
-<img src="https://github.com/1F47E/go-bytereel/raw/master/assets/banner.jpg" width="600px"></a>
+<a href="https://github.com/1F47E/go-bitreel">
+<img src="https://github.com/1F47E/go-bitreel/raw/master/assets/banner.jpg" width="600px"></a>
 
 > Tool to convert any file to a video
 
