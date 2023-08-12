@@ -28,15 +28,6 @@
 
 
 
-### [BTC Xray](https://github.com/1F47E/go-btc-xray/)
-
-<a href="https://github.com/1F47E/go-btc-xray">
-<img src="https://github.com/1F47E/go-btc-xray/raw/master/assets/banner.jpg" width="600px"></a>
-
-> Bitcoin network scanner
-
-
-
 ### [Bitreel](https://github.com/1F47E/go-bitreel/)
 
 
@@ -46,6 +37,13 @@
 > Tool to convert any file to a video
 
 
+
+### [BTC Xray](https://github.com/1F47E/go-btc-xray/)
+
+<a href="https://github.com/1F47E/go-btc-xray">
+<img src="https://github.com/1F47E/go-btc-xray/raw/master/assets/banner.jpg" width="600px"></a>
+
+> Bitcoin network scanner
 
 
 
