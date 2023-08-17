@@ -1,10 +1,10 @@
 ## Hi there! Below is a list of my recent golang pet projects. Feel free to open issues or contribute. Thanks!
 
 
-### [Pow Jabbar](https://github.com/1F47E/go-pow-jabbar)
+### [Pow Jabbar](https://github.com/1F47E/powjabbar)
 
-<a href="https://github.com/1F47E/go-pow-jabbar">
-<img src="https://github.com/1F47E/go-pow-jabbar/raw/master/assets/banner.jpg" width="600px"></a>
+<a href="https://github.com/1F47E/powjabbar">
+<img src="https://github.com/1F47E/powjabbar/raw/master/assets/banner.jpg" width="600px"></a>
 
 > HTTP library for anti-DDOS protection based on asymmetric proof-of-work (PoW) algorithm
 
