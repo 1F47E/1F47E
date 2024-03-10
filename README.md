@@ -1,4 +1,5 @@
-## Hi there! Below is a list of my recent golang pet projects. Feel free to open issues or contribute. Thanks!
+## Hi there! Feel free to open issues or contribute. Thanks!
+👾👾👾
 
 
 ### [Pow Jabbar](https://github.com/1F47E/powjabbar)
