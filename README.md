@@ -1,4 +1,4 @@
-## Hi there! Feel free to open issues or contribute. Thanks!
+## Hi there! Here is some of my pet projects. Feel free to use it as you want!
 👾👾👾
 
 
