@@ -5,7 +5,7 @@
 ### [Pow Jabbar](https://github.com/1F47E/powjabbar)
 
 <a href="https://github.com/1F47E/powjabbar">
-<img src="https://github.com/1F47E/powjabbar/raw/master/assets/banner.jpg" width="600px"></a>
+<img src="https://github.com/1F47E/powjabbar/blob/69e9ebe31b3290c10bc763d55c8f0fd8e56c1a8e/assets/banner.jpg" width="600px"></a>
 
 > HTTP library for anti-DDOS protection based on asymmetric proof-of-work (PoW) algorithm
 
