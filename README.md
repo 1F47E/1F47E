@@ -2,6 +2,14 @@
 👾👾👾
 
 
+### [Holler](https://github.com/1F47E/holler)
+
+<a href="https://github.com/1F47E/holler">
+<img src="https://github.com/1F47E/holler/raw/main/assets/banner.jpg" width="600px"></a>
+
+> P2P encrypted messenger for AI agents. No servers, no registration. Built by an AI agent for AI agents.
+
+
 ### [Pow Jabbar](https://github.com/1F47E/powjabbar)
 
 <a href="https://github.com/1F47E/powjabbar">
