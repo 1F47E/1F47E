@@ -5,7 +5,7 @@
 ### [Codex:Rival](https://github.com/1F47E/claude-codex-plugin)
 
 <a href="https://github.com/1F47E/claude-codex-plugin">
-<img src="https://github.com/1F47E/claude-codex-plugin/raw/master/assets/banner.png" width="600px"></a>
+<img src="https://github.com/1F47E/claude-codex-plugin/raw/master/assets/banner2.png" width="600px"></a>
 
 > GPT-5.4 code review from Claude Code. Zero Claude tokens — runs on your Codex subscription.
 
