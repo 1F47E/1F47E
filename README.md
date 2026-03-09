@@ -2,6 +2,14 @@
 👾👾👾
 
 
+### [Codex](https://github.com/1F47E/claude-codex-plugin)
+
+<a href="https://github.com/1F47E/claude-codex-plugin">
+<img src="https://github.com/1F47E/claude-codex-plugin/raw/master/assets/banner.png" width="600px"></a>
+
+> Run OpenAI Codex CLI (gpt-5.4) from Claude Code as a subagent. Code review, generation, and analysis.
+
+
 ### [Holler](https://github.com/1F47E/holler)
 
 <a href="https://github.com/1F47E/holler">
