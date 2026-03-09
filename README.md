@@ -2,12 +2,12 @@
 👾👾👾
 
 
-### [Codex](https://github.com/1F47E/claude-codex-plugin)
+### [Codex:Rival](https://github.com/1F47E/claude-codex-plugin)
 
 <a href="https://github.com/1F47E/claude-codex-plugin">
 <img src="https://github.com/1F47E/claude-codex-plugin/raw/master/assets/banner.png" width="600px"></a>
 
-> Run OpenAI Codex CLI (gpt-5.4) from Claude Code as a subagent. Code review, generation, and analysis.
+> GPT-5.4 code review from Claude Code. Zero Claude tokens — runs on your Codex subscription.
 
 
 ### [Holler](https://github.com/1F47E/holler)
