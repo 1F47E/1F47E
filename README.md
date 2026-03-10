@@ -2,12 +2,12 @@
 👾👾👾
 
 
-### [Codex:Rival](https://github.com/1F47E/codex-rival)
+### [Rival](https://github.com/1F47E/rival)
 
-<a href="https://github.com/1F47E/codex-rival">
-<img src="https://github.com/1F47E/codex-rival/raw/master/assets/banner2.png" width="600px"></a>
+<a href="https://github.com/1F47E/rival">
+<img src="https://github.com/1F47E/rival/raw/master/assets/banner2.png" width="600px"></a>
 
-> GPT-5.4 code review from Claude Code. Zero Claude tokens — runs on your Codex subscription.
+> Dispatch AI rivals (GPT-5.4, Gemini 2.5 Pro) from Claude Code. Zero Claude tokens.
 
 
 ### [Holler](https://github.com/1F47E/holler)
